@@ -75,5 +75,6 @@ func main(){
 	
 	// nama umur thn lahir celcius far
 	// far >= 73 panas     >73 dingin
+	fmt.Println("tambah apa aja")
 
 }
